@@ -1,0 +1,16 @@
+# STM32CubeIDE build outputs
+Debug/
+Release/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
