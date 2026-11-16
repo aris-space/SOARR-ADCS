@@ -59,6 +59,8 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define mtq_sleep_Pin GPIO_PIN_6
+#define mtq_sleep_GPIO_Port GPIOC
 #define watchdog_Pin GPIO_PIN_7
 #define watchdog_GPIO_Port GPIOC
 
